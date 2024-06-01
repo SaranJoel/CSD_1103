@@ -1,0 +1,22 @@
+body{
+    background-image:  url(https://picsum.photos/200/300);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+h1{text-align: center;}
+h2{color: #000000;}
+
+.pcolor{color: crimson;}
+
+ol{list-style-type: upper-roman;
+list-style-position:inside}
+
+ul{list-style-type: square;}
+
+
+#firstimage{
+    float: right;
+    height: 200px;
+    width: 200px;
+}
